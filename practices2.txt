@@ -1,0 +1,63 @@
+Program 1
+	Output:
+	Hello, Grant.
+	How are you Gavin.
+	What do want to do today Grant?
+	I do not Gavin.
+	Grant, should we play Roblox?
+	That's a good idea Gavin.
+Program 1 updated:
+	Replace the two people in problem one with two different names.  Discuss refactoring...
+
+Program 2:
+	a. The program will ask for a number
+	b. The program will ask for another number
+	c. The program will print the sum, difference, product and quotient of the two numbers.
+	example output:  
+		Enter a number: 8
+		Enter another number: 2
+		8 + 2 = 10
+		8 - 2 = 6
+		8 x 2 = 16
+		8 / 2 = 4
+
+Program 2 Updated:
+	Update program 2 so it will ask for three numbers then add, subtract, and multiple the numbers.
+	Example ouput:
+		Enter a number: 5
+		Enter another number: 3
+		Enter a third number: 1
+		5 + 3 + 1 = 9
+		5 - 3 - 1 = 1
+		5 x 3 x1 = 15
+
+Program 3
+	a. The program will ask the user to enter their height.
+	b. If the user's height is at least 5 feet, then the program will print the message,
+		 "You are tall enough to sit in the front seat."
+	c. If the user's height is less than 5 feet, then the program will print the message, 
+		   "Sorry, you cannot sit in the front seat."
+		Example:
+		Enter your height in feet: 5.6
+		You are tall enough to sit in the front seat.
+		-------------------------------
+		Enter your height in feet: 4.9
+		Sorry, you cannot sit in the front seat
+
+Program 4
+	a. The program will ask the user to a number between 0 and 100.
+	b. The program will output: 
+		"That's an A", when the user entered a number that is 90 or higher.
+		"That's a  B",  when the user entered a number that is 80 or higher.
+		"That's a  C",  when the user entered a number that is 70 or higher.
+		"That's a  D",  when the user entered a number that is 60 or higher.
+		"That's a  F",  when the user entered a number that is below 60.
+		
+		Example:
+		Enter a number between 0 and 100: 83
+		That's a B
+		--------------------------------------
+		Enter a number between 0 and 100: 67
+		That's a D
+
+

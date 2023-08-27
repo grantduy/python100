@@ -1,0 +1,44 @@
+1.  What will this function call do?
+	a. print("Hello")
+	b. print(2420)
+2. What will this function call do?
+	greeting = "Hello"
+	print(greeting)
+-----------------------------------------------------
+	num = 2420
+	print(num)
+3. What will this function call do?
+	input("What is your name")
+4. What can you do with input()?
+	a. variable 
+	b. inline
+5. Concatenation 
+	a. Strings and number?
+6. Data type
+	a. What will the function type() do?
+	c. How can you convert (cast) a data type
+
+
+print("Hello")
+print(2420)
+print(852.86)
+
+greeting = "Hello"
+print(greeting)
+
+num = 2420
+print(num)
+
+print(greeting + str(num))
+
+num2 = 852.86
+print(num2)
+
+print(greeting + num2)
+
+name = input("What is your name? ")
+print("Are you " + name + "?")
+print("I am Superman.")
+
+number = input("Enter a number? ")
+print("You are number " + number + " in line")

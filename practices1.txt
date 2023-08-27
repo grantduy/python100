@@ -1,0 +1,16 @@
+1  (Notice the indentation)
+if ( age > 12):
+    print("You can stay home alone.")
+else:
+    print("You are too young to be home alone")
+2  (Notice the indentation)
+	if ( age > 11 ):
+	    if (height > 5.2):
+ 	        print("You can sit in the front seat.")
+	    else:
+	        print("It's not safe for you to sit in the front seat.")
+	else:
+	        print("You are too young to sit in the front seat.")	
+
+
+ASCII arts:  ascii.co.uk/art
